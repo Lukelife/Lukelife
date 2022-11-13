@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lukelife
-- 👀 I’m interested in to Learn Programming, IT Jobs, IT Program Internship
-- 🌱 I’m currently learning C#, Html, Css, JavaScript, Sql
+- 👋 Hi, I’m @Lukelife (Lucas)
+- 👀 I'm an eternal programming student :D
+- 🌱 I’m currently learning Html, Css, JavaScript, Sql and C#
 - 💞️ I’m looking to collaborate on projects, works, learning, volunteer
-- 📫 How to reach me email: lcsguedesf@gmail.com, Cel: +55 11993265675
+- 📫 How to reach me email: lcsguedesf@gmail.com
 
 <!---
 Lukelife/Lukelife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
