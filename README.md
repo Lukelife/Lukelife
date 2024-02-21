@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lukelife (Lucas)
+- 👋 Hi, I’m @Lukelife (Lucas Guedes)
 - 👀 I'm an eternal programming student :D
 - 🌱 I’m currently learning Html, Css, JavaScript, Sql and C#
 - 💞️ I’m looking to collaborate on projects, works, learning, volunteer
